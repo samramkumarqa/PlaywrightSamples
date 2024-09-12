@@ -19,5 +19,4 @@ public class NewAuth {
 		Page page = brContext.newPage();
 		page.navigate("http://automationpractice.com/");
 	}
-
 }

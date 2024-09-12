@@ -19,5 +19,4 @@ public class XpathUnion {
 		System.out.println(login.textContent());
 		login.click();
 	}
-
 }

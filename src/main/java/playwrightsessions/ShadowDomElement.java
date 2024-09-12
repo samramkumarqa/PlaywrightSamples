@@ -25,5 +25,4 @@ public class ShadowDomElement {
 		page.navigate("https://selectorshub.com/xpath-practice-page/");
 		page.locator("#pact").locator("div#snacktime #tea").fill("ginger tea");
 	}
-
 }

@@ -25,7 +25,5 @@ public class MaximizeBrowser {
 				BrowserContext context  = browser.newContext(new Browser.NewContextOptions().setViewportSize(1920, 1080));
 				Page page = context.newPage();
 				page.navigate("http://www.amazon.com");
-				
 	}
-
 }

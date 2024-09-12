@@ -22,5 +22,4 @@ public class VideoRecording {
 		page.close();
 		playwright.close();
 	}
-
 }

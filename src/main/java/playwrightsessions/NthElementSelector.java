@@ -25,5 +25,4 @@ public class NthElementSelector {
 		String lastEle = last_ele.textContent();
 		System.out.println(lastEle);
 	}
-
 }

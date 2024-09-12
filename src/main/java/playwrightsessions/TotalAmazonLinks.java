@@ -21,7 +21,5 @@ public class TotalAmazonLinks {
 		List <String> amazonlinkslist = page.locator("a:has-text('Amazon')").allInnerTexts();
 		
 		amazonlinkslist.stream().forEach(e -> System.out.println(e));
-
 	}
-
 }
